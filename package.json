@@ -1,12 +1,12 @@
 {
   "name": "generator-fun",
   "version": "1.0.0",
-  "description": "",
+  "description": "Generator examples including async",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "David Novicki",
   "license": "ISC",
   "dependencies": {
     "co": "^4.6.0",
